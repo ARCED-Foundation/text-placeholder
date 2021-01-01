@@ -1,0 +1,8 @@
+{
+	"name" : "Placeholder text field",
+	"author" : "Mehrab Ali",
+	"version": "1.0.0",
+	"supportedFieldTypes": ["text"],
+	"hideDefaultRequiredMessage": false,
+	"hideDefaultConstraintMessage": false
+}
