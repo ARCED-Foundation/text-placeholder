@@ -1,4 +1,4 @@
-# placeholder-text
+# text-placeholder
 
 ![Download now](extras/preview-images/Placeholder-text.jpg)  ![Download now](extras/preview-images/Placeholder-text-dynamic.jpg) 
 
