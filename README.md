@@ -14,7 +14,7 @@ Use this field plug-in to use customized text in the placeholder of text type fi
 
 For this field plug-in, enter the text for the `text` parameter (see **Parameters** below), and that text will be shown into the field's placeholder. It can only be used with text field type.
 
-This plug-in was developed based on the [baseline-text field-plug-in](https://github.com/surveycto/baseline-text/blob/master/README.md), therefore, also supports the additional improvements.
+This plug-in was developed based on the [baseline-text](https://github.com/surveycto/baseline-text/blob/master/README.md) field-plug-in, therefore, also supports the additional improvements in the [baseline-text](https://github.com/surveycto/baseline-text/blob/master/README.md) field-plug-in.
 
 
 [![Download now](extras/preview-images/download-button.png)](https://github.com/ARCED-Foundation/text-placeholder/raw/main/text-placeholder.fieldplugin.zip)
