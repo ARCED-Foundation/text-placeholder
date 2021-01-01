@@ -25,16 +25,16 @@ This plug-in was developed based on the [baseline-text](https://github.com/surve
 | --- | --- |
 | Supported field type(s) | `text`|
 | Default values | Yes |
-| Custom constraint message | Yes |
-| Custom required message | Yes |
-| Read only | Yes |
+| Custom constraint message | Uses default behavior |
+| Custom required message | Uses default behavior |
+| Read only | Yes (shows the current value, if present) |
 | media:image | Yes |
 | media:audio | Yes |
 | media:video | Yes |
 | `number` appearance | Yes |
 | `numbers_decimal` appearance | Yes |
 | `numbers_phone` appearance | Yes |
-| `show_formatted` appearance | Yes |
+
 
 ## How to use
 
