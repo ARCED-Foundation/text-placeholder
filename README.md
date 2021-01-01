@@ -15,7 +15,7 @@ Use this field plug-in to use customized text in the placeholder of text type fi
 For this field plug-in, enter the text for the `text` parameter (see **Parameters** below), and that text will be shown into the field's placeholder. It can only be used with text field type.
 
 
-[![Download now](extras/preview-images/download-button.png)](https://github.com/ARCED-Foundation/dynamic-text/raw/main/text-placeholder.fieldplugin.zip)
+[![Download now](extras/preview-images/download-button.png)](https://github.com/ARCED-Foundation/text-placeholder/raw/main/text-placeholder.fieldplugin.zip)
 
 ## Default SurveyCTO feature support
 
