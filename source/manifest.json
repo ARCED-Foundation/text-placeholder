@@ -1,6 +1,6 @@
 {
 	"name" : "Placeholder text field",
-	"author" : "Mehrab Ali",
+	"author" : "Mehrab Ali and Tasmin Binta Mamun",
 	"version": "1.0.0",
 	"supportedFieldTypes": ["text"],
 	"hideDefaultRequiredMessage": false,
